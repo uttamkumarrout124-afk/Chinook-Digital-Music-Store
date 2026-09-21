@@ -1,4 +1,4 @@
-Author
+Author:
 Uttam Kumar Rout
 Data Analytics | SQL | Business Intelligence | Customer Analytics
 Project: Chinook Digital Music Store Analytics
